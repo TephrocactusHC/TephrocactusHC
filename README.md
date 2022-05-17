@@ -2,7 +2,7 @@
 - 👀 I’m interested in DL/ML/DM
 - 🌱 I’m currently learning KG
 - 💞️ I’m looking to collaborate on KG
-- 📫 How to reach me my_student_number@mail.nankai.edu.cn
+- 📫 How to reach me Nankai University E-Mail or my Phone
 
 <!---
 TephrocactusHC/TephrocactusHC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
