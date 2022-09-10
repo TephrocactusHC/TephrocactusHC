@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on KG
 - 📫 How to reach me Nankai University E-Mail or my Phone
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TephrocactusHC&theme=highcontrast&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TephrocactusHC&repo=TephrocactusHC)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TephrocactusHC&theme=buefy&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TephrocactusHC)](https://github.com/anuraghazra/github-readme-stats)
 
