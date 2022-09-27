@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TephrocactusHC
-- 👀 I’m interested in DL/ML/DM
-- 🌱 I’m currently learning KG
-- 💞️ I’m looking to collaborate on KG
+- 👀 I’m interested in Deep Learning/Machine Learning/Data Mining/Knowledge Graph
+- 🌱 I’m currently learning Knowledge Graph
+- 💞️ I’m looking to collaborate on Knowledge
 - 📫 How to reach me Nankai University E-Mail or my Phone
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TephrocactusHC&theme=buefy&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
