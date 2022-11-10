@@ -5,6 +5,12 @@
 - 💞️ I’m looking to collaborate on Knowledge
 - 📫 How to reach me Nankai University E-Mail or my Phone
 
+# NKU的朋友们
+# 顺着我的following找到学长学姐的开源代码的同时，能不能FOLLOW我一下，谢谢！
+# 我虽然没有朱哥开源的多，但是也开源了一些代码，给我STAR好吗！
+
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TephrocactusHC&theme=buefy&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TephrocactusHC)](https://github.com/anuraghazra/github-readme-stats)
