@@ -4,10 +4,20 @@
 - 🌱 I’m currently learning Knowledge Graph
 - 💞️ I’m looking to collaborate on Knowledge
 - 📫 How to reach me Nankai University E-Mail or my Phone
+<a href="https://github.com/L1cardo/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></a>
+## Hey 👋, I'm TephrocactusHC!
+
+Hi there, I'm **TephrocactusHC**, a **CS student**.
+
+Now I am studying IS at **[Nankai University](http://english.hust.edu.cn/)**.
+
+I love programming and I love Swift.
+
 
 # NKU的朋友们
 # 顺着我的following找到学长学姐的开源代码的同时，能不能FOLLOW我一下，谢谢！
 # 我虽然没有朱哥开源的多，但是也开源了一些代码，给我STAR好吗！
+
 
 
 
