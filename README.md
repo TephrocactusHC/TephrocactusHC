@@ -13,8 +13,6 @@ Now I am studying IS at **[Nankai University](http://english.hust.edu.cn/)**.
 
 I love programming and I love Swift.
 
-## My contributios
-![](https://raw.githubusercontent.com/TephrocactusHC/TephrocactusHC/main/assets/github-contribution-grid-snake.svg)
 # NKU的朋友们
 # 顺着我的following找到学长学姐的开源代码的同时，能不能FOLLOW我一下，谢谢！
 # 我虽然没有朱哥开源的多，但是也开源了一些代码，给我STAR好吗！
