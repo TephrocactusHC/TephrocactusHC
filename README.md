@@ -13,10 +13,9 @@ Now I am studying IS at **[Nankai University](http://english.hust.edu.cn/)**.
 
 I love programming and I love Swift.
 
-# NKU的朋友们
-# 顺着我的following找到学长学姐的开源代码的同时，能不能FOLLOW我一下，谢谢！
-# 我虽然没有朱哥开源的多，但是也开源了一些代码，给我STAR好吗！
-
+# 关于NKU
+如你所见，我开源了大多数课程的代码，并且开源了几乎所有专业课的复习资料。希望你们给我一些STAR。
+另，我的GITHUB编织起了一张庞大的网络，都是NKU寄网的学长学姐们和同届的朋友们。顺着我的following找到学长学姐的开源代码的同时，能不能FOLLOW我一下，谢谢！
 
 
 
