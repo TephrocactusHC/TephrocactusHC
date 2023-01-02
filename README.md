@@ -23,6 +23,7 @@ I love programming and I love Swift.
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TephrocactusHC)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TephrocactusHC&theme=dracula)
 
 <!---
 TephrocactusHC/TephrocactusHC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
