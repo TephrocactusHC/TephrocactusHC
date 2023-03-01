@@ -3,7 +3,7 @@
 - 👀 I’m interested in Deep Learning/Machine Learning/Data Mining/Knowledge Graph
 - 🌱 I’m currently learning Knowledge Graph
 - 💞️ I’m looking to collaborate on Knowledge
-- 📫 How to reach me Nankai University E-Mail or my Phone
+- 📫 How to reach me [Nankai University E-Mail](2012656@mail.nankai.edu.cn) 
 <a href="https://github.com/L1cardo/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></a>
 ## Hey 👋, I'm TephrocactusHC!
 
