@@ -1,7 +1,7 @@
 # ABOUT ME
 - 👋 Hi, I’m @TephrocactusHC
 - 👀 I’m interested in Deep Learning/Machine Learning/Data Mining/Knowledge Graph
-- 🌱 I’m currently learning Knowledge Graph
+- 🌱 I’m currently learning Knowledge Graph and Rust OS
 - 💞️ I’m looking to collaborate on Knowledge
 - 📫 How to reach me Nankai University E-Mail: 2012656@mail.nankai.edu.cn 
 <a href="https://github.com/L1cardo/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></a>
@@ -9,7 +9,7 @@
 
 Hi there, I'm **TephrocactusHC**, a **CS student**.
 
-Now I am studying IS at **[Nankai University](http://english.hust.edu.cn/)**.
+Now I am studying IS at **[Nankai University](https://www.nankai.edu.cn/main.htm)**.
 
 I love programming and I love Swift.
 
