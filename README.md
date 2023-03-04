@@ -9,7 +9,7 @@
 
 Hi there, I'm **TephrocactusHC**, a **CS student**.
 
-Now I am studying IS at **[Nankai University](https://www.nankai.edu.cn/main.htm)**.
+Now I am studying IS at **[College of Cyber Science](https://cyber.nankai.edu.cn/)**, **[Nankai University](https://www.nankai.edu.cn/main.htm)**.
 
 I love programming and I love Swift.
 
