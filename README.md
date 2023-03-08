@@ -7,11 +7,11 @@
 <a href="https://github.com/L1cardo/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></a>
 ## Hey 👋, I'm TephrocactusHC!
 
-Hi there, I'm **TephrocactusHC**, a **CS student**.
+Hi there, I'm **TephrocactusHC**, a **IS student**.
 
 Now I am studying IS at **[College of Cyber Science](https://cyber.nankai.edu.cn/)**, **[Nankai University](https://www.nankai.edu.cn/main.htm)**.
 
-I love programming and I love Swift.
+I love programming and I love Python.
 
 # 关于NKU
 如你所见，我开源了大多数课程的代码，并且开源了几乎所有专业课的复习资料。**希望你们给我一些STAR**。<br>
