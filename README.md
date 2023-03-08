@@ -23,7 +23,11 @@ I love programming and I love Swift.
 | [![TephrocactusHC's github stats](https://github-readme-stats.vercel.app/api?username=TephrocactusHC&theme=buefy&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TephrocactusHC)](https://github.com/anuraghazra/github-readme-stats)|
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TephrocactusHC&theme=dracula)
-
+# ping学
+> 失败学的中兴分支，ping学之于失败学就像心血之于儒学。
+ping学，取自"修身、齐家、治国、ping天下"之“ping”，意为失败终究会如末世洪水一般ping通天下。<br/>
+# 马世骐
+ping学的创始人和开拓者，失败学的集大成者。马世骐之于失败学，就像康德之于启蒙运动。马世骐之于ping学，就像王阳明之于心血。失败学不能没有马世骐，就像西方不能没有耶路撒冷。ping学不能没有马世骐，就像罗马不能没有君士坦丁堡。
 <!---
 TephrocactusHC/TephrocactusHC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
