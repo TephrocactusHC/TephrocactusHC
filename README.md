@@ -17,7 +17,11 @@ Now I am studying Cyber Security .I love programming and I love Python.
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | [![TephrocactusHC's github stats](https://github-readme-stats.vercel.app/api?username=TephrocactusHC&theme=buefy&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TephrocactusHC)](https://github.com/anuraghazra/github-readme-stats)|
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TephrocactusHC&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TephrocactusHC&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TephrocactusHC&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TephrocactusHC&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TephrocactusHC&theme=vue&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TephrocactusHC&theme=vue)
 # ping学
 > 失败学的中兴分支，ping学之于失败学就像心血之于儒学。
 ping学，取自"修身、齐家、治国、ping天下"之“ping”，意为失败终究会如末世洪水一般ping通天下。<br/>
