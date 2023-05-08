@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @TephrocactusHC
 - 👀 I’m interested in Deep Learning/Machine Learning/Data Mining/Knowledge Graph
 - 🌱 I’m currently learning Knowledge Graph and Rust OS
-- 💞️ I’m looking to collaborate on Knowledge
+- 💞️ I’m looking to collaborate on Knowledge Graph.
 - 📫 How to reach me via my Nankai University E-Mail
 <a href="https://github.com/L1cardo/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></a>
 ## Hey 👋, I'm TephrocactusHC!
