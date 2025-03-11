@@ -25,6 +25,8 @@ Now I am studying Cyber Security .I love programming and I love Python.
 
 # 提问的艺术
 在和本账号进行交互之前，请仔细阅读[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)和[别像弱智一样提问](https://github.com/dogfight360/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)，并遵守你能在互联网上搜到的一切 GITHUB 礼仪，比如[这里](https://github.com/girls-in-ai/Girls-In-AI/blob/master/tools/github/issue.md)和[这里](https://opensource.guide/zh-hans/how-to-contribute/)。
+# 停更
+本账号从今日起无限期停更，由于本地2FA验证软件已经被我删除，因此在本次会话的cookie到期后，应该无法再顺利登陆本账号。如对本人仓库内的内容有任何问题或者希望与我取得联系，可以通过ISSUE提交并留下你的联系方式，如果我看到会自动与你取得联系。本账号未来是否回归、何时回归，均未知。
 <!----
 # NOTICE
 This account will be stopped updating after the end of this semester, thank you for your support and understanding.
